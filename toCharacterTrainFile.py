@@ -1,4 +1,8 @@
-
+'''
+*****************
+This file is not useful. Don't use this
+*****************
+'''
 with open("./Testfile",'r',encoding='UTF-8') as ft:
     with open("./CharacterTestFile",'w',encoding='UTF-8') as fc:
         word_items=ft.readlines()
